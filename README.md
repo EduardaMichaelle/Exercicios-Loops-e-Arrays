@@ -31,7 +31,7 @@ Ex.: 5!=5.4.3.2.1=120
 
 <h3 align="center">EXERCÍCIOS COM ARRAYS 📝</h3> 
 
-<h3 align="center">ARRAYS UNIDIMENSIONAIS</h3>
+<h3 align="center">UNIDIMENSIONAIS</h3>
 
 🔵 **Ordem Inversa:** Crie um vetor de 6 números inteiros e mostre-os na ordem inversa.
 
@@ -39,6 +39,6 @@ Ex.: 5!=5.4.3.2.1=120
 
 🟡 **Números Aleatórios:** Faça um Programa que leia 20 números inteiros aleatórios (entre 0 e 100) armazene-os num vetor. Ao final, mostre os números e seus sucessores.
 
-<h3 align="center">ARRAYS MULTIDIMENSIONAIS</h3>
+<h3 align="center">MULTIDIMENSIONAIS</h3>
 
 🟠 **Array Multidimensional:** Gere e imprima uma matriz M 4x4 com valores aleatórios entre 0-9. Após isso, determine o menor número da matriz e a sua posição (linha, coluna).
