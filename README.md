@@ -2,7 +2,7 @@
 
 Resolução dos exercícios propostos pelo curso da [Digital Innovation One](https://web.dio.me/home): Estruturas de Repetição e Arrays na Linguagem Java. Disponibilizado pelo Bootcamp Santander Code Girls. 
 
-## <h3 align="center">EXERCÍCIOS COM EXTRUTURAS DE REPETIÇÃO 📝</h3> 
+## <h3 align="center">EXERCÍCIOS COM ESTRUTURAS DE REPETIÇÃO 📝</h3> 
 
 <h3 align="center">WHILE</h3>
 
